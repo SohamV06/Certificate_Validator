@@ -1,0 +1,12 @@
+streamlit
+google-generativeai
+python-dotenv
+PyMuPDF
+opencv-python
+pyzbar
+requests
+beautifulsoup4
+pillow
+rapidfuzz
+selenium
+webdriver-manager
